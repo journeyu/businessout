@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Muhammad Akbar
 tagline: Digital Innovation Business Expert
-featuredImage: /assets/img_20180814_084715_811.jpg
+featuredImage: /assets/081118-151.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
